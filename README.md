@@ -24,11 +24,8 @@ Honey bees are among the most important pollinators for crops and wild plants. T
 
 
 1. Save the Bees (2015–2022) [https://www.kaggle.com/datasets/m000sey/save-the-honey-bees]
-   (https://www.kaggle.com/datasets/m000sey/save-the-honey-bees)
 2. CO₂ Emissions USA [https://www.kaggle.com/datasets/abdelrahman16/co2-emissions-usa]
-   (https://www.kaggle.com/datasets/abdelrahman16/co2-emissions-usa) 
 3. US Tornado Dataset (1950–2021) [https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021]
-   (https://www.kaggle.com/datasets/danbraswell/us-tornado-dataset-1950-2021)
 
 All three were aligned to a common **2015–2021** window and a **state × year** grain.
 
