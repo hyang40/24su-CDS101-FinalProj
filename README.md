@@ -95,11 +95,12 @@ All three were aligned to a common **2015–2021** window and a **state × year*
 | `us_tornado_dataset_1950_2021.csv`                   | NOAA tornado records, 1950–2021                                               |
 | `emissions_value.csv` / `.xlsx`, `tornado_count.csv` | Intermediate aggregated tables                                                |
 
-
-
+## Team Members
+Junseo Choi, Sojeong Lee, Soyeon Park, Ho-Jae Song, Heewon Yang
 
 ## My Role
-
+- **Hypothesis testing:** Took ownership of the statistical testing component mid-project; designed and ran the simulation-based permutation tests for emissions and tornado frequency, and interpreted the p-values and null distributions.
+- **Regression modeling:** Built and evaluated the simple and multiple linear regression models, including the interaction term, and checked model assumptions with residual, Q–Q and observed-vs-predicted diagnostics.
 
 
 ## Tech Stack
